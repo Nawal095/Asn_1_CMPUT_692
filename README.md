@@ -43,28 +43,9 @@
 
 Below is an example of the evaluation output when running the `./run_evaluation.sh` script, demonstrating the performance metrics for Execution Metric Score & Soft F1-Score and Reward-based Valid Efficiency Score (R-VES) on the Mini Dev dataset using SQLite dialect:
 
-Execution Evaluation:
+### Expected Output
 
-                     simple  moderate  challenging  total
-count                13      17        10           40
-====================================== EX =======================
-EX                   92.31   94.12     80.00        90.00
-
-
-R-VES:
-                     simple  moderate  challenging  total
-count                13      17        10           40
-====================================== R-VES ====================
-R-VES                92.19   92.54     74.64        87.95
-
-Soft F1:
-
-                     simple  moderate  challenging  total
-count                13      17        10           40
-====================================== Soft-F1 ==================
-Soft-F1              92.31   94.12     82.22        90.56
-
-- Results are aggregated by difficulty (Simple, Moderate, Challenging) and total, reflecting the 40-query subset performance.
+The example of the evaluation output when running the `./run_evaluation.sh` script, demonstrating the performance metrics for Execution Metric Score & Soft F1-Score and Reward-based Valid Efficiency Score (R-VES) on the Mini Dev dataset using SQLite dialect are in SQLite_example_result.txt file in the folder
 
 ### Notes
 - Adjust file paths and model locations based on your local setup.
