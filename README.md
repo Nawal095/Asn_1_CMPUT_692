@@ -41,10 +41,6 @@
 
 ### Expected Output
 
-Below is an example of the evaluation output when running the `./run_evaluation.sh` script, demonstrating the performance metrics for Execution Metric Score & Soft F1-Score and Reward-based Valid Efficiency Score (R-VES) on the Mini Dev dataset using SQLite dialect:
-
-### Expected Output
-
 The example of the evaluation output when running the `./run_evaluation.sh` script, demonstrating the performance metrics for Execution Metric Score & Soft F1-Score and Reward-based Valid Efficiency Score (R-VES) on the Mini Dev dataset using SQLite dialect are in SQLite_example_result.txt file in the folder
 
 ### Notes
