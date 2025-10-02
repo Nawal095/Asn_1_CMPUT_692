@@ -47,21 +47,21 @@ Execution Evaluation:
 
                      simple  moderate  challenging  total
 count                13      17        10           40
-====================================== EX =====================================
+====================================== EX =======================
 EX                   92.31   94.12     80.00        90.00
 
 
 R-VES:
                      simple  moderate  challenging  total
 count                13      17        10           40
-====================================== R-VES =====================================
+====================================== R-VES ====================
 R-VES                92.19   92.54     74.64        87.95
 
 Soft F1:
 
                      simple  moderate  challenging  total
 count                13      17        10           40
-====================================== Soft-F1 =====================================
+====================================== Soft-F1 ==================
 Soft-F1              92.31   94.12     82.22        90.56
 
 - Results are aggregated by difficulty (Simple, Moderate, Challenging) and total, reflecting the 40-query subset performance.
