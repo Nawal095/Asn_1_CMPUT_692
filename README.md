@@ -43,44 +43,26 @@
 
 Below is an example of the evaluation output when running the `./run_evaluation.sh` script, demonstrating the performance metrics for Execution Metric Score & Soft F1-Score and Reward-based Valid Efficiency Score (R-VES) on the Mini Dev dataset using SQLite dialect:
 
-base) noshinnawal@Noshins-MacBook-Air evaluation % ./run_evaluation.sh
-Differential JSON Path: ../sqlite/mini_dev_sqlite.jsonl
-Ground Truth Path: ../sqlite/mini_dev_sqlite_gold.sql
-starting to compare with knowledge for ex, sql_dialect: SQLite
-start calculate EX
-40
-                     simple               moderate             challenging          total               
-count                13                   17                   10                   40                  
-======================================    EX    =====================================
-EX                   92.31                94.12                80.00                90.00               
-===========================================================================================
-Finished EX evaluation for SQLite on Mini Dev set
+Execution Evaluation:
 
-base) noshinnawal@Noshins-MacBook-Air evaluation % ./run_evaluation.sh
-Differential JSON Path: ../sqlite/mini_dev_sqlite.jsonl
-Ground Truth Path: ../sqlite/mini_dev_sqlite_gold.sql
-starting to compare with knowledge for R-VES, sql_dialect: SQLite
-start calculate R-VES
-                     simple               moderate             challenging          total               
-count                13                   17                   10                   40                  
-======================================    R-VES    =====================================
-R-VES                92.19                92.54                74.64                87.95               
-===========================================================================================
-Finished R-VES evaluation for SQLite on Mini Dev set
-
-(base) noshinnawal@Noshins-MacBook-Air evaluation % ./run_evaluation.sh
-Differential JSON Path: ../sqlite/mini_dev_sqlite.jsonl
-Ground Truth Path: ../sqlite/mini_dev_sqlite_gold.sql
-starting to compare with knowledge for soft-f1, sql_dialect: SQLite
-start calculate Soft F1
-                     simple               moderate             challenging          total               
-count                13                   17                   10                   40                  
-======================================    Soft-F1    =====================================
-Soft-F1              92.31                94.12                82.22                90.56               
-===========================================================================================
-Finished F1 evaluation for SQLite on Mini Dev set
+                     simple  moderate  challenging  total
+count                13      17        10           40
+====================================== EX =====================================
+EX                   92.31   94.12     80.00        90.00
 
 
+R-VES:
+                     simple  moderate  challenging  total
+count                13      17        10           40
+====================================== R-VES =====================================
+R-VES                92.19   92.54     74.64        87.95
+
+Soft F1:
+
+                     simple  moderate  challenging  total
+count                13      17        10           40
+====================================== Soft-F1 =====================================
+Soft-F1              92.31   94.12     82.22        90.56
 
 - Results are aggregated by difficulty (Simple, Moderate, Challenging) and total, reflecting the 40-query subset performance.
 
