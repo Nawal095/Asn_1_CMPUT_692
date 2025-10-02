@@ -1,0 +1,41 @@
+question_id,db_id,difficulty,question
+195,toxicology,simple,What is the most common bond type?
+239,toxicology,simple,How many connections does the atom 19 have?
+227,toxicology,simple,What is the percentage of molecules that are carcinogenic? Please provide your answer as a percentage with three decimal places.
+255,toxicology,moderate,What proportion of single bonds are carcinogenic? Please provide your answer as a percentage with five decimal places.
+208,toxicology,moderate,Which type of label is the most numerous in atoms with hydrogen?
+201,toxicology,moderate,What is the percentage of carbon in double-bond molecules?
+253,toxicology,challenging,List the elements of all the triple bonds.
+207,toxicology,challenging,What elements are in a double type bond?
+231,toxicology,challenging,Which bond type accounted for the majority of the bonds found in molecule TR010 and state whether or not this molecule is carcinogenic?
+263,toxicology,challenging,What is the composition of element chlorine in percentage among the single bond molecules?
+576,codebase_community,simple,Name the user that commented 'thank you user93!'
+468,card_games,moderate,"What is the Simplified Chinese translation of the name of the set ""Eighth Edition""?"
+1039,european_football_2,simple,Find the average number of long-shot done by Ahmed Samir Farag.
+480,card_games,moderate,"What is the Italian flavor text of the card ""Ancestor's Chosen""?"
+912,formula_1,simple,What's the reference name of Marina Bay Street Circuit?
+1533,debit_card_specializing,moderate,For all the people who paid more than 29.00 per unit of product id No.5. Give their consumption status in the August of 2012.
+200,toxicology,simple,Find the triple-bonded molecules which are carcinogenic.
+1014,formula_1,challenging,Please list the lap records for the circuits in Italy.
+344,card_games,moderate,List all the mythic rarity print cards banned in gladiator format.
+685,codebase_community,moderate,Identify the total views on the post 'Computer Game Datasets'. Name the user who posted it last time.
+220,toxicology,challenging,Please list top three elements of the toxicology of the molecule TR000 in alphabetical order.
+1150,thrombosis_prediction,moderate,What is the percentage of female patient were born after 1930?
+528,card_games,challenging,List the names of all the cards in the set Hour of Devastation and find the formats in which these cards are legal.
+1155,thrombosis_prediction,simple,"List the patient ID, sex and birthday of patient with LDH beyond normal range."
+825,superhero,moderate,Identify the gender of the superhero who has the ability of Phoenix Force.
+422,card_games,simple,What is the language of the card with the multiverse number 149934?
+115,financial,challenging,"For the branch which located in the south Bohemia with biggest number of inhabitants, what is the percentage of the male clients?"
+1239,thrombosis_prediction,challenging,Name the ID and age of patient with two or more laboratory examinations which show their hematoclit level exceeded the normal range.
+213,toxicology,moderate,What type of bond is there between the atoms TR004_8 and TR004_20?
+750,superhero,simple,What is the average weight of all female superheroes?
+1432,student_club,moderate,"Among the members with t-shirt size of medium, what is the percentage of the amount 50 received by the Student_Club?"
+282,toxicology,challenging,What is the ratio of Hydrogen elements in molecule ID TR006? List the ratio with its label.
+402,card_games,moderate,What is the percentage of Story Spotlight cards that do not have a text box? List them by their ID.
+1357,student_club,simple,State the date Connor Hilton paid his/her dues.
+604,codebase_community,moderate,What is the average of the up votes and the average user age for users creating more than 10 posts?
+797,superhero,moderate,Which superheroes have blue eyes with brown hair?
+248,toxicology,simple,"What are the atoms of the triple bond with the molecule ""TR041""?"
+531,codebase_community,simple,"Which user has a higher reputation, Harlan or Jarrod Dixon?"
+728,superhero,moderate,"Rank superheroes from Marvel Comics by their eye color popularity, starting with the most common color."
+405,card_games,moderate,How many Brazilian Portuguese translated sets are inside the Commander block?
